@@ -3,4 +3,4 @@ WPU RESOLUSI
 - Koding dengan Javascript
 - Koding Dengan Phyton
 - Memamhami Linux
-- belajar dengan lebih banyak expert
+- Memmbuat VLog
