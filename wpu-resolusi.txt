@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- Konsisten Untuk koding dengan PHP , MYSQL, CI, Bootsstrap
+- Koding dengan Javascript
+- Koding Dengan Phyton
