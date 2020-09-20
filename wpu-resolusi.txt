@@ -1,6 +1,14 @@
-WPU RESOLUSI
-- Konsisten Untuk koding dengan PHP , MYSQL, CI, Bootsstrap
-- Koding dengan Javascript
-- Koding Dengan Phyton
-- Memamhami Linux
-- Memmbuat VLog
+RESOLUSI 2 Minggu ke Depan
+- Buat Website Marketplace 2 hari
+- Buat Website Sisfo-Akademik 2 hari
+- Buat Website Penggajian 2 hari
+- Buat Website Info Customer 3 hari
+- Buat Website Penjualan Tugas dari Leo
+- Mempelajari Fitur Fitur Website 
+  - . Ajax di Codeigneiter
+  - . Data Table Di Codeigneiter
+  - . Chart di Codeigneiter
+  - . login di codeigneiter
+  
+- Memahami Git dan Github
+  
